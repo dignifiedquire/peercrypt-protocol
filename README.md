@@ -11,4 +11,13 @@ The protocol is written in [gherkin] format.
   which models the real life networks of its users.
 
 
+## Definition Parts
+
+* [devices](devices)
+* [friendship](friendship)
+* [relay](relay)
+* [lookup](lookup)
+* [security tokens](security-tokens)
+
+
 [gherkin]: https://github.com/cucumber/cucumber/wiki/Gherkin
