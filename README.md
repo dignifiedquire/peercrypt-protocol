@@ -1,7 +1,8 @@
 # Peercrypt Protocol
 
+> Secure sommunication should not be a privilege!
 
-The protocol is written [gherkin] format.
+The protocol is written in [gherkin] format.
 
 
 ## Goals
